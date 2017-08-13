@@ -56,6 +56,9 @@ var TILE_SCORES = {
   z: 0
 };
 
+// TODO: actually implement bingo bonusing
+var BINGO_BONUS_SCORE = 35;
+
 var MULTS = [
   "  ,  ,  ,TW,  ,  ,TL,  ,TL,  ,  ,TW,  ,  ,  ",
   "  ,  ,DL,  ,  ,DW,  ,  ,  ,DW,  ,  ,DL,  ,  ",
